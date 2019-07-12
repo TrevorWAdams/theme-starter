@@ -1,0 +1,22 @@
+{
+  "name": "gatsby-theme-gmc",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "trevorwadams <trevorwadams@gmail.com> (@trevorwadams)",
+  "license": "MIT",
+  "peerDependencies": {
+    "gatsby": "^2.13.19"
+  },
+  "dependencies": {
+    "@emotion/core": "^10.0.14",
+    "@mdx-js/react": "^1.0.27",
+    "@theme-ui/prism": "^0.2.8",
+    "@theme-ui/typography": "^0.2.5",
+    "gatsby-plugin-theme-ui": "^0.2.6",
+    "gatsby-source-filesystem": "^2.1.5",
+    "gatsby-theme-components": "*",
+    "lodash.merge": "^4.6.2",
+    "theme-ui": "^0.2.13",
+    "typography": "^0.16.19"
+  }
+}

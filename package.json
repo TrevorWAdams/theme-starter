@@ -1,0 +1,17 @@
+{
+  "name": "gatsby-starter-theme-workspace",
+  "private": true,
+  "version": "0.0.1",
+  "license": "MIT",
+  "scripts": {
+    "clean": "yarn workspace example-site clean",
+    "build": "yarn workspace example-site build",
+    "develop": "yarn workspace example-site develop",
+    "start": "yarn workspace example-site develop"
+  },
+  "workspaces": [
+    "gatsby-theme-gmc",
+    "example-site",
+    "gatsby-theme-components"
+  ]
+}

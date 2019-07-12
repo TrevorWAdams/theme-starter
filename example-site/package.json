@@ -1,0 +1,19 @@
+{
+  "name": "example-site",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:ChristopherBiscardi/gatsby-theme-minimal-example.git",
+  "author": "christopherbiscardi <chris@christopherbiscardi.com> (@chrisbiscardi)",
+  "license": "MIT",
+  "scripts": {
+    "clean": "gatsby clean",
+    "develop": "gatsby develop",
+    "build": "gatsby build"
+  },
+  "dependencies": {
+    "gatsby": "^2.13.19",
+    "gatsby-theme-gmc": "*",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6"
+  }
+}
